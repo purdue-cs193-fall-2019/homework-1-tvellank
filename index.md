@@ -1,9 +1,10 @@
 ## Tarun's First CS193 Homework
 
 My favorite things about CS 193
--It is taught by students
--It seems important
--It doesn't seem ridiculously difficult
+
+- It is taught by students
+- It seems important
+- It doesn't seem ridiculously difficult
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
